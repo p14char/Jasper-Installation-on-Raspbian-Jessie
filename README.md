@@ -29,4 +29,4 @@ I have a secondary email just for things like this. So I don't mind enabling les
 
 If you don't have a second email, I'd suggest you create one. (**Highly recommended!😉**) And then just never give it out, but use only for your personal projects.  Google will allow you to create additional emails! (It used to be that they would *not* allow this.)
 
-You can also check email from multiple accounts by logging into your primary account and going to *Settings->Accounts and Import* and adding additional accounts. ***😎 Yeah Google! 😎***
+You can also check email from multiple accounts by logging into your primary account and going to *Settings->Accounts and Import* and adding additional accounts. ***😎 Yay Google! 😎***
