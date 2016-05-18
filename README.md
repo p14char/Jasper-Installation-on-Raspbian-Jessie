@@ -14,7 +14,7 @@ After this script runs, you'll need to reboot and then run:
 ./install_jasper_python.sh
 </pre>
 
-After you get the "Finished" message, you can run Jasper with ~/jasper/jasper.py :)
+After you get the message at the end that starts with "--- ... ---> Finished!", you can run Jasper with ~/jasper/jasper.py :)
 To enable gmail integration, log in to gmail.com, go to Settings->Forwarding and POP/IMAP->Enable IMAP
 And then go here and enable "Less secure apps":
 https://www.google.com/settings/u/2/security/lesssecureapps
