@@ -57,3 +57,11 @@ So this website did help (much, much more than the other attempts I'd made).
 It looks to me like the only reason these errors happened is because even more code has been made available in the standard repositories. So the trick was to pull down all that I could with *apt-get* and build the rest from source. This worked out well. However, I have only used this on one install. 
 
 Please, feel free to create issues with any problems you encounter and we'll see if we can work through those, as well. I'd like to keep this up-to-date. Who knows? Maybe this will become "the place" to learn how to install Google Jasper on Raspbian. (I would be humbled if it does! **😇🕊☮**)
+
+<br>&nbsp;<br>
+<hr></hr>
+**Issues**
+
+I am a newbie in jasper so i need some help from you guys. I have followed all the steps and istalled outdated yaml too but i have one more problems: 
+- the client tts is not imported.
+I have seen some more text to speech packages for python but i dont know if i install another tts if the code need to be changed.
